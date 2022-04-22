@@ -1,0 +1,30 @@
+baseURL: 'https://cryptonoyu.xyz/'
+languageCode: 'ja'
+title: 'クリプトの湯'
+paginate: 5
+enableEmoji: true
+enableGitInfo: true
+permalinks:
+  posts: /posts/:slug/
+
+markup:
+  tableOfContents:
+    endLevel: 3
+    ordered: false
+    startLevel: 2
+
+module:
+  imports:
+    - path: github.com/nodejh/hugo-theme-mini
+
+social:
+  twitter: https://twitter.com/ma3ru_az
+
+params:
+  author: ma3ru
+  description: |
+    仮想通貨に関する情報をお届け！
+  enableRSS: true
+  enableComments: false
+  showToc: true
+  showPowerBy: false
