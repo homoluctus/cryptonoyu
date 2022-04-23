@@ -1,7 +1,8 @@
 baseURL: 'https://cryptonoyu.xyz/'
-languageCode: 'ja'
+languageCode: 'ja-JP'
 title: 'クリプトの湯'
 paginate: 5
+hasCJKLanguage: true
 enableEmoji: true
 enableGitInfo: true
 permalinks:
@@ -28,3 +29,5 @@ params:
   enableComments: false
   showToc: true
   showPowerBy: false
+  customCSS:
+    - css/custom.css

@@ -1,0 +1,33 @@
+/* List Page Style */
+
+#list-page {
+  margin: 50px auto;
+}
+
+#list-page .title {
+  font-weight: bold;
+}
+
+/* Single Page Style */
+
+#single .title {
+  font-weight: bold;
+}
+
+#single h2 {
+  margin-top: 70px;
+  padding-left: 10px;
+  font-weight: bold;
+  border-left: 0.4rem solid #1e90ff;
+  border-bottom: 0.12rem solid #1e90ff;
+}
+
+#single h3 {
+  margin-top: 50px;
+  font-weight: bold;
+  border-bottom: 0.08rem solid #1e90ff;
+}
+
+#single thead th:empty {
+  display: none;
+}
