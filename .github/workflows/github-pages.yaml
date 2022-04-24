@@ -11,7 +11,7 @@ on:
 
 env:
   HUGO_ENV: production
-  CNAME: cryptonoyu.xyz
+  CNAME: www.cryptonoyu.xyz
 
 jobs:
   deploy:
