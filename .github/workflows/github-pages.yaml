@@ -1,0 +1,34 @@
+name: GitHub Pages
+
+on:
+  push:
+    branches:
+      - main
+    paths-ignore:
+      - README.md
+      - .vscode
+      - LICENSE
+
+env:
+  HUGO_ENV: production
+  CNAME: cryptonoyu.xyz
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+
+      - uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: 'latest'
+
+      - run: make build
+
+      - uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./public
+          cname: ${{ env.CNAME }}
