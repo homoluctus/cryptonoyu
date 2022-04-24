@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /categories/
+Disallow: /tags/defit/
+Disallow: /tags/ethereum/
+Disallow: /tags/m2e/
+Disallow: /tags/movetoearn/
+Disallow: /tags/polygon/
+Disallow: /tags/
+Disallow: /categories/%E4%BB%AE%E6%83%B3%E9%80%9A%E8%B2%A8/
