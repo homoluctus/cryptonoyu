@@ -62,7 +62,7 @@ bitbankで送金先アドレスに、MEXC GlobalのXRPのウォレットアド�
 
 MEXC GlobalではDEFIT/USDTの取引ペアしかありません。つまり、XRPを元手にDEFITに購入することはできません。  
 なので一旦XRPをUSDTにしてからDEFITを購入しましょう。  
-DEFITの購入は[こちら](https://www.mexc.com/exchange/DEFIT_USDT)からできます。
+DEFITの購入は[MEXC Globalの取引所](https://www.mexc.com/exchange/DEFIT_USDT)からできます。
 
 ## DEFITの稼ぎ方
 
@@ -95,6 +95,14 @@ DEFITが統合されていないアプリは既にリリース済みです。
 [Apple Store](https://apps.apple.com/us/app/360wellness/id1511566195) | [Google Play Store](https://play.google.com/store/apps/details?id=com.app360Sports.wellness.prod&hl=fr&gl=US)
 
 {{< tweet user="defittoken" id="1515652879176339456" >}}
+
+### NFTは発売されるの？
+
+ホワイトペーパーにはNFTを発売する予定である旨が記載されています。  
+NFTはDEFITで活動すればするほど進化していきます。マイルストーンが完了すると、ヨガ・筋トレ・サイクリングなど自身のライフスタイルに応じて新しい属性がNFTに付与されます。  
+NFTを保有していると、報酬を受けたり、利益を獲得することができます。  
+
+2022年4月時点では抽象的な説明しかないので、具体的なNFTのユーティリティが発表されるのを待ちましょう。
 
 ## Reference
 
