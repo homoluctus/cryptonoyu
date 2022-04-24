@@ -1,6 +1,6 @@
 ---
 title: "話題となっているMove To EarnプロジェクトのDEFITを解説"
-slug: explain_defit
+slug: what_is_defit
 date: 2022-04-22T10:39:17+09:00
 releaseDate: 2022-04-23
 draft: false
