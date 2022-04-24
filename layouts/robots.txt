@@ -1,0 +1,6 @@
+User-agent: *
+{{- range .Data.Pages -}}
+{{ if eq .Kind "taxonomy" | or (eq .Kind "term") }}
+Disallow: {{ .RelPermalink }}
+{{- end -}}
+{{- end -}}

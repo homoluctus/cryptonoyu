@@ -5,6 +5,7 @@ paginate: 5
 hasCJKLanguage: true
 enableEmoji: true
 enableGitInfo: true
+enableRobotsTXT: true
 permalinks:
   posts: /posts/:slug/
 
