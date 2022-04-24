@@ -4,7 +4,7 @@ slug: what_is_defit
 date: 2022-04-22T10:39:17+09:00
 releaseDate: 2022-04-23
 draft: false
-description: "STEPNで話題となったMove To Ea rn。次のSTEPNとして期待されるDEFITについて紹介します。"
+description: "STEPNで話題となったMove To Earn。次のSTEPNとして期待されるDEFITについて紹介します。"
 tags: ["defit", "m2e", "movetoearn", "polygon", "ethereum"]
 categories: ["仮想通貨"]
 ---
