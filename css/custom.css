@@ -43,3 +43,7 @@
 #single thead th:empty {
   display: none;
 }
+
+#single .tags {
+  margin-top: 60px;
+}
