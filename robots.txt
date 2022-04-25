@@ -1,9 +1,13 @@
 User-agent: *
 Disallow: /categories/
 Disallow: /tags/defit/
-Disallow: /tags/ethereum/
+Disallow: /tags/dex/
 Disallow: /tags/m2e/
+Disallow: /tags/metamask/
 Disallow: /tags/movetoearn/
-Disallow: /tags/polygon/
+Disallow: /tags/quickswap/
 Disallow: /tags/
+Disallow: /tags/uniswap/
 Disallow: /categories/%E4%BB%AE%E6%83%B3%E9%80%9A%E8%B2%A8/
+Disallow: /tags/ethereum/
+Disallow: /tags/polygon/
