@@ -2,8 +2,8 @@
 title: "DEFITトークンの購入方法"
 slug: how_to_buy_defit
 date: 2022-04-24T16:49:08+09:00
-releaseDate: 2022-04-24
-draft: true
+releaseDate: 2022-04-25
+draft: false
 description: "STEPNで話題となったMove To Earn。STEPNに続いて、ヘルスケアやフィットネスをしながら稼げるプロジェクトのDEFITの購入方法をご紹介します。"
 tags: ["defit", "m2e", "movetoearn", "uniswap", "quickswap", "metamask", "dex"]
 categories: ["仮想通貨"]
