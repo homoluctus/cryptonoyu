@@ -47,3 +47,37 @@
 #single .tags {
   margin-top: 60px;
 }
+
+/* Section Style */
+
+#section .title {
+  font-size: 28px;
+  font-weight: bold;
+  line-height: 48px;
+}
+
+#section h2 {
+  margin-top: 70px;
+  margin-bottom: 40px;
+  padding-left: 10px;
+  font-weight: bold;
+  border-left: 0.4rem solid #1e90ff;
+  border-bottom: 0.12rem solid #1e90ff;
+}
+
+/* Footer Style */
+#footer .links {
+  margin-top: 20px;
+  display: flex;
+  justify-content: center;
+  gap: 16px;
+}
+
+#footer .links a {
+  color: #bbbbbb;
+}
+
+#footer .links a:hover {
+  color: #5badf0;
+  text-decoration: underline;
+}
