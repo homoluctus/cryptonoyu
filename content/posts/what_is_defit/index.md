@@ -61,7 +61,7 @@ bitbankで送金先アドレスに、MEXC GlobalのXRPのウォレットアド�
 ### 4.XRP->USDT->DEFITにトレード
 
 MEXC GlobalではDEFIT/USDTの取引ペアしかありません。つまり、XRPを元手にDEFITに購入することはできません。  
-なので一旦XRPをUSDTにしてからDEFITを購入しましょう。  
+なので一旦XRP売却してUSDTに換金後にDEFITを購入しましょう。  
 DEFITの購入は[MEXC Globalの取引所](https://www.mexc.com/exchange/DEFIT_USDT)からできます。
 
 ## DEFITの稼ぎ方
